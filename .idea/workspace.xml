@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="925c667b-73ca-4c74-9736-5fe50ff91883" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +16,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="87" column="174" lean-forward="true" selection-start-line="87" selection-start-column="11" selection-end-line="87" selection-end-column="174" />
+            <state relative-caret-position="666">
+              <caret line="103" column="38" selection-start-line="103" selection-start-column="38" selection-end-line="103" selection-end-column="38" />
               <folding>
                 <element signature="e#21452#21458#0" expanded="true" />
               </folding>
@@ -149,12 +148,12 @@
       <updated>1531500397813</updated>
       <workItem from="1531500399339" duration="858000" />
       <workItem from="1531553024300" duration="28000" />
-      <workItem from="1531577951785" duration="150000" />
+      <workItem from="1531577951785" duration="246000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1036000" />
+    <option name="totallyTimeSpent" value="1132000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -215,8 +214,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="87" column="174" lean-forward="true" selection-start-line="87" selection-start-column="11" selection-end-line="87" selection-end-column="174" />
+        <state relative-caret-position="666">
+          <caret line="103" column="38" selection-start-line="103" selection-start-column="38" selection-end-line="103" selection-end-column="38" />
           <folding>
             <element signature="e#21452#21458#0" expanded="true" />
           </folding>
